@@ -4,14 +4,11 @@
 #### Start Screen
 ![StartScreen](screenshots/StartScreen.png)
 
-#### Level Selection
-![LevelSelection](/screenshots/LevelSelection.png)
+#### Game On
+![GameOn](screenshots/GameOn.png)
 
-#### Tutorial
-![Tutorial](/screenshots/Tutorial.png)
-![Tutorial1](/screenshots/Tutorial1.png)
-![Tutorial](/screenshots/Tutorial2.png)
+#### Game Over
+![GameOver](screenshots/GameOver.png)
 
-### In Game
-!.[InGame](/screenshots/Game.png)
+
 
